@@ -1,0 +1,1 @@
+web: gunicorn pondoksagumetro.wsgi --log-file -
