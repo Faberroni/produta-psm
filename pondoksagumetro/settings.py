@@ -84,11 +84,11 @@ WSGI_APPLICATION = 'pondoksagumetro.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'pondoksagumetro',
+        'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD' : '12345' ,
-        'HOST' : '127.0.0.1' ,
-        'PORT' : '5432' ,
+        'PASSWORD' : 'VFro0LsmQfM31MpjfM1E' ,
+        'HOST' : 'containers-us-west-13.railway.app' ,
+        'PORT' : '6163' ,
     }
 }
 
