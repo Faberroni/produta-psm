@@ -15,6 +15,7 @@ def contactView(request):
             message = form.cleaned_data['message']
             try:
                 send_mail(subject, message, from_email, ["raizal20ashari@apps.ipb.ac.id"])
+                form = ContactForm()
             except BadHeaderError:
                 return HttpResponse("Invalid header found.")
     return render(request, "email.html", {"form": form})
