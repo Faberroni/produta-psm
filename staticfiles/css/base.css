@@ -12,9 +12,10 @@ body {
         border-color: #000000;
 }
 .masthead {
+    background:#3398E1;
     height: auto;
     padding-bottom: 15px;
-    box-shadow: 0 16px 48px #f2f9ff;
+    box-shadow: 0 16px 48px #E3E7EB;
     padding-top: 10px;
 }
 #welcome1 {

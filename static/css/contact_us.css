@@ -58,6 +58,11 @@ img {
 
 }
 
+#social-text-isi{
+    color: white;
+    font-size: 32px;
+}
+
 .breadcrumb > li {
     color: #0d5cab;
     font-size: 12px;
@@ -128,4 +133,21 @@ img {
 }
 .list-group .list-group-item {
     padding: 18px 0 18px 9px;
+}
+
+.text-sosmed {
+    font-size: 18px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+#teks_toko {
+    padding-top: 9px;
+   font-size: small;
+}
+
+#teks_fb{
+    padding-top: 9px;
+   font-size: small;
 }
