@@ -3,6 +3,10 @@
 #email-container{
     width: 900px;
     height: fit-content;
+}
+
+#email-box {
+    height: 500px; 
     padding-bottom: 45px;
 }
 .subpageTitle {
