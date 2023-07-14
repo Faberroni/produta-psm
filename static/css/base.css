@@ -34,3 +34,13 @@ body {
 .container-fluid {
     font-family:'Montserrat', sans-serif, monospace;
 }
+
+#containerfootersatu {
+    background-color: #3398E1;
+    color: white;
+}
+
+#containerfooterdua {
+    background-color: #3398E1;
+    color: white;
+}
