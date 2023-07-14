@@ -35,12 +35,7 @@ body {
     font-family:'Montserrat', sans-serif, monospace;
 }
 
-#containerfootersatu {
+.site-footer{
     background-color: #3398E1;
-    color: white;
-}
-
-#containerfooterdua {
-    background-color: #3398E1;
-    color: white;
+    color: #ffffff;
 }

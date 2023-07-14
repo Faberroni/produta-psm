@@ -5,10 +5,7 @@
     height: fit-content;
 }
 
-#email-box {
-    height: 500px; 
-    padding-bottom: 45px;
-}
+
 .subpageTitle {
     padding: 22px 0;
 }
@@ -73,6 +70,11 @@ img {
     font-size: 12px;
     text-transform: uppercase;
 }
+
+.contactForm {
+    padding: 10px;
+}
+
 .contactForm input[type="submit"] {
     font-family: 'Roboto', sans-serif;
     padding-top: 13px;
