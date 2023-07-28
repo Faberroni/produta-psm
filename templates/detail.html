@@ -12,7 +12,8 @@
             {{ product.category }}
             </a>
         </h2>
-        <p class="price">{{ product.price }}</p>
+        <p class="price">Rp. {{ product.price }}</p>
+        <p>{{ product.link }}</p>
         {{ product.description|linebreaks }}
     </div>
 {% endblock %}
