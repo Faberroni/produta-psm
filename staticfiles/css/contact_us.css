@@ -158,3 +158,5 @@ img {
     padding-top: 9px;
    font-size: small;
 }
+
+a { color: inherit; } 
