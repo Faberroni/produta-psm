@@ -226,6 +226,11 @@ ul.errorlist {
     overflow:hidden;
 }
 
+#main-container {
+    background-position:center;
+    background-attachment: fixed;
+}
+
 .product-list .item {
     width:25%;
     padding:10px 20px 10px 0;
@@ -369,4 +374,12 @@ form div.field {
     background:#efefef;
     color:#666;
     border-radius:4px;
+}
+
+.head_text{
+    color: white;
+  }
+    .card{
+    box-shadow: 0 16px 48px #E3E7EB;
+    border-radius: 12;
 }
